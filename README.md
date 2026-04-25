@@ -1,0 +1,2 @@
+# soltrader-ai
+Trading bot
